@@ -1,4 +1,4 @@
-﻿CREATE PROCEDURE [dbo].[Procedure2] BEGIN 
+﻿CREATE PROCEDURE [dbo].[Procedure2] AS BEGIN 
 
 SELECT 2 AS B
                 

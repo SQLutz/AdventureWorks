@@ -220,5 +220,6 @@
     <Build Include="ExtendedProperties.sql" />
     <Build Include="dbo\Procedure1.sql" />
     <Build Include="dbo\Procedure2.sql" />
+    <Build Include="dbo\Procedure2_1.sql" />
   </ItemGroup>
 </Project>
