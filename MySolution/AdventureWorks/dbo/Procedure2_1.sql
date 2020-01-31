@@ -3,6 +3,6 @@ AS
 
 BEGIN 
 
-
+SELECT 1 AS A
 end
 RETURN 0
